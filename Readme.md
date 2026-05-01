@@ -1,3 +1,32 @@
+# 🎬 CINEMATIC BRAND EXPERIENCE PORTFOLIO
+### Senior Brand Strategist × Cultural Researcher × Cinematic Experience Director
+
+> **₹5L–₹10L level premium creative direction work**  
+> 10 brands. 10 completely unique immersive 3D experiences. All rooted in real brand history and cultural research.
+
+---
+
+## 📁 QUICK ACCESS TO SCRIPTS
+
+| Brand | Concept | Script |
+|-------|---------|--------|
+| Adidas | "Three Stripes Through Time" | [→](./scripts/01_ADIDAS.md) |
+| Puma | "Cool Without Permission" | [→](./scripts/02_PUMA.md) |
+| Jordan | "Gravity Is a Myth" | [→](./scripts/03_JORDAN.md) |
+| Scout | "The Pioneer Protocol" | [→](./scripts/04_SCOUT.md) |
+| Jonathan Gaming | "Smooth Operator" | [→](./scripts/05_JONATHAN_GAMING.md) |
+| Samay Raina | "Checkmate the Algorithm" | [→](./scripts/06_SAMAY_RAINA.md) |
+| Karan Aujla | "From Dust to Gold" | [→](./scripts/07_KARAN_AUJLA.md) |
+| Meek Mill | "Dreams & Nightmares: The Architecture" | [→](./scripts/08_MEEK_MILL.md) |
+| Kanye West | "The Church of Duality" | [→](./scripts/09_KANYE_WEST.md) |
+| Rawme Hood | "Underground Signal" | [→](./scripts/10_RAWME_HOOD.md) |
+
+**[→ Full Index](./scripts/00_INDEX.md)** | **[→ Technical Guide](./scripts/11_TECHNICAL_GUIDE.md)**
+
+---
+
+## ORIGINAL BRIEF
+
 You are a senior brand strategist, cultural researcher, and cinematic experience director.
 
 Your task is to perform **deep research and analysis** on the following brands/creators and then generate **high-end cinematic, scroll-based 3D website scripts** based ONLY on what has actually worked for them historically:
